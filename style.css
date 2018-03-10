@@ -11,3 +11,9 @@ header li{
 #header-split{
 	margin-left: 67%;
 }
+#apps{
+	position:relative;
+	top:8px;
+	height: 25px;
+	width: 25px;
+}
