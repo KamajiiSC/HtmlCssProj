@@ -1,7 +1,9 @@
 *{ margin:0; padding:0; }
+
 header li{ 
 	display:inline-block;
+	margin-left: 1%;
 }
-#right-align{
-	margin-left:70%;
+#header-split{
+	margin-left: 70%;
 }
