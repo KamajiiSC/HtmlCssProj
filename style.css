@@ -1,3 +1,6 @@
 header li{ 
 	display:inline-block;
 }
+#right-align{
+	margin-left:70%;
+}
