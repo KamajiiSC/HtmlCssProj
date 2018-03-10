@@ -1,5 +1,7 @@
+/*Reset Browser Padding*/
 *{ margin:0; padding:0; }
 
+/*Make List horizontal and align*/
 header li{ 
 	display:inline-block;
 
@@ -8,15 +10,18 @@ header li{
 	margin-top:1.9em;
 	margin-left: 2%;
 }
+/*Align right side of header*/
 #header-split{
 	margin-left: 65%;
 }
+/*Position and size apps button*/
 #apps{
 	position:relative;
 	top:8px;
 	height: 25px;
 	width: 25px;
 }
+/*Position and style Sign in button*/
 #signin{
 	border:none;
 	color:white;
