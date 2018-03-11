@@ -49,3 +49,15 @@ header li{
 	box-shadow:0px 2px 2.5px lightgray;
 	margin-left:27.6%; 
 }
+
+#searchbuttons{
+	margin-top: 3em;
+	margin-left: 41%;
+}
+#searchbuttons button{
+	border:none;
+	border-radius: 0px;
+}
+#searchbuttons li{
+	display:inline-block;
+}
