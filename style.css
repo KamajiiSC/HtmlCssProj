@@ -12,7 +12,7 @@ header li{
 	margin-left: 2%;
 }
 /*Align right side of header*/
-#header-split{
+.header-split{
 	margin-left: 65%;
 }
 /*Position and size apps button*/
@@ -61,4 +61,15 @@ header li{
 }
 #searchbuttons li{
 	display:inline-block;
+}
+
+footer{
+	background-color: #edeff2;
+	margin-top: 11em;
+	margin-bottom: 0px;
+	padding-bottom: 18px;
+	border-top: 2px solid lightgray;
+}
+footer li{
+	display: inline-block;
 }
