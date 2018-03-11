@@ -32,14 +32,20 @@ header li{
 }
 
 #googlelogo{
+	position:relative;
+	left:35em;
+	margin:0px;
+	padding:0px;
+	height:175px;
+	width:190px;
 }
 
 #searchbar{
 	padding-top:25px;
 	width: 45%;
 	position: relative;
-	top: 17.5em;
-	left: 25em;
+	top: 12em;
+	left: 12em;
 	box-sizing:border-box;
 	border:1px lightgray solid;
 	border-radius:0px;
