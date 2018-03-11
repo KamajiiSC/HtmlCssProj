@@ -51,10 +51,11 @@ header li{
 }
 
 #searchbuttons{
-	margin-top: 3em;
-	margin-left: 41%;
+	margin-top: 2.6em;
+	margin-left: 38%;
 }
 #searchbuttons button{
+	padding:12px 20px;
 	border:none;
 	border-radius: 0px;
 }
