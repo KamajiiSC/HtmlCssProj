@@ -32,5 +32,13 @@ header li{
 }
 
 #searchbar{
-	
+	padding-top:25px;
+	width: 45%;
+	position: relative;
+	top: 17.5em;
+	left: 25em;
+	box-sizing:border-box;
+	border:1px lightgray solid;
+	border-radius:0px;
+	box-shadow:0px 1px 2px lightgray;
 }
