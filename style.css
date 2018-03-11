@@ -27,9 +27,10 @@ header li{
 	border:none;
 	color:white;
 	font-weight: bold;
-	background-color: blue;
-	padding:10px 20px;
+	background-color: #0099cc;
+	padding:8px 15px;
 	text-decoration: none;
+	border-radius: 2px;
 }
 
 #googlelogo{
